@@ -40,7 +40,7 @@ const quotes = [
   newQuoteBtn.addEventListener("click", () => {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const quote = quotes[randomIndex];
-    quoteText.textContent = `"${quote.quote}"`;
-    authorText.textContent = `- ${quote.author}`;
+    quoteText.textContent = `${quote.quote}`;
+    authorText.textContent = `${quote.author}`;
   });
   
