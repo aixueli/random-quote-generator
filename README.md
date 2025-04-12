@@ -6,13 +6,11 @@ This is a simple web app that displays random quotes from Koichi Domoto when yu 
 
 # Demo
 
-This will be coming soon. 
-
-<!-- You can try it live here: 
+You can try it live here: 
 
 [https://aixueli.github.io/random-quote-generator](https://aixueli.github.io/random-quote-generator)
 
-## Screenshots
+<!--## Screenshots
 
 ![Random Quote Generator Screenshot](screenshot.png)  
 remove: Optional: Add a screenshot of your app and save it as "screenshot.png" in the repo
