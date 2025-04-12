@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f4f8;
+    background-color: #323030;
     margin: 0;
   }
   
@@ -31,7 +31,7 @@ body {
   button {
     padding: 0.5rem 1rem;
     border: none;
-    background-color: #ab1919;
+    background-color: #d63030;
     color: white;
     border-radius: 4px;
     cursor: pointer;
@@ -39,6 +39,6 @@ body {
   }
   
   button:hover {
-    background-color: #901010;
+    background-color: #ab1919;
   }
   
